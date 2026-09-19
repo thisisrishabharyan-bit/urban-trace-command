@@ -1,1 +1,1 @@
-- Expand the selected plan heading into a highly detailed implementation scope without changing the remaining plan.
+- [x] Expand the selected plan heading into a highly detailed implementation scope without changing the remaining plan.
