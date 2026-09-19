@@ -1,6 +1,6 @@
 # UrbanTrace AI — Operator Control Room
 
-## Build
+## Build — detailed visual, interaction, content, accessibility, and responsive implementation scope
 - Replace the starter screen with a 1440 × 900 map-first operator dashboard using the supplied palette and Manrope typography.
 - Use the generated aerial city map and camera imagery as the visual foundation.
 - Add a floating vehicle/location search, active and offline camera pins, cyan current trajectory, muted historical routes, timestamp markers, map labels, and an open live-camera card.
